@@ -34,7 +34,7 @@
 
 【Ep.01】
 
-- 直播时间：2023年10月日
+- 直播时间：2023年10月23日
 - YouTube: <https://youtube.com/live/255Vr7gOj6k>
-- Bilibili: <>
+- Bilibili: <https://www.bilibili.com/video/BV1oB4y1R7zo>
 - 学习制作了Gabriel Aguiar的魔法球(Magic Orb)
